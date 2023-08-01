@@ -6,10 +6,10 @@
 #print(san)
 #print("바보입니다")
 #print(ko,san,sep="전")
-a="가지볶음"
-print(a*11129)
-
-
+#a="가지볶음"
+#print(a*11129)
+b="kosanbabo"
+print(b*121)
 
 
 
