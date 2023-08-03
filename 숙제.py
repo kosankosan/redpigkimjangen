@@ -1,6 +1,6 @@
 a="kosankosankosan"
 print(len(a))
-b=f*3
-d=y*2
+b=a*3
+d=b*2
 print(len(b))
 print(d)

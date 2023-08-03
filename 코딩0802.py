@@ -1,4 +1,4 @@
-a="돼지"
+"""a="돼지"
 b="정은"
 a+=b
 print("빌어먹을 "+a+" 엿먹어라")
@@ -14,8 +14,13 @@ z=y*1000
 print(len(z))
 print(z)
 print("ggfr","ggdd",sep="\n")
-print("ethjsdymrsftu","htzohiohubkjb",sep="\n")
-
+print("ethjsdymrsftu","htzohiohubkjb",sep="\n")"""
+a="kosankosankosan"
+print(len(a))
+b=a*3
+d=b*2
+print(len(b))
+print(d)
 
 
 
