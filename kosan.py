@@ -1,0 +1,12 @@
+a="koone"
+print(a[0])
+print(a[1])
+print(a[2])
+print(a[3])
+print(a[4])
+print("천재")
+print(a[-1])
+s="kimjongen"
+print(s[-4])
+d="k1o2s3a4n5"
+print(d[0]+d[2]+d[4]+d[6]+d[8])
