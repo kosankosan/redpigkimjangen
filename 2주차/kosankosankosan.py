@@ -1,0 +1,10 @@
+a="Minecraft"
+#print(f"{a:9^500}")
+#print(f"{a:9>500}")
+#print(f"{a:9<500}")
+#s="나는"
+#d="고원입니다"
+#print(a,s,d)
+print(True)
+print(False)
+print(bool(1))
