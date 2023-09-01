@@ -32,3 +32,7 @@ u="kokokosasasan"
 i="kosankosankosan"
 print(u!=i)
 print(u==i)
+ㅏㅐㅏㅐ=3343
+s="3343"
+ㅏㅐㅏㅐ=str(s)
+print(type(ㅏㅐㅏㅐ))
