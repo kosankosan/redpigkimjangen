@@ -5,7 +5,7 @@ d=b*2
 print(len(b))
 print(d)"""
 """s="k1o2o3n4e5"
-print(s[0]+s[2]+s[4]+s[6]+s[8])"""
+print(s[0]+s[2]+s[4]+s[6]+s[8])
 a="고원"
 s="은 "
 d="천재이자 "
@@ -35,4 +35,14 @@ print(u==i)
 ㅏㅐㅏㅐ=3343
 s="3343"
 ㅏㅐㅏㅐ=str(s)
-print(type(ㅏㅐㅏㅐ))
+print(type(ㅏㅐㅏㅐ))"""
+print(not True)
+print(not False)
+print(True and True)
+print(True and False)
+print(True or True)
+print(True or False)
+print(True or False or False)
+print(True and True and False)
+print(False and True)
+print(False and False)
