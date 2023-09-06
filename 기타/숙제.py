@@ -35,7 +35,7 @@ print(u==i)
 ㅏㅐㅏㅐ=3343
 s="3343"
 ㅏㅐㅏㅐ=str(s)
-print(type(ㅏㅐㅏㅐ))"""
+print(type(ㅏㅐㅏㅐ))
 print(not True)
 print(not False)
 print(True and True)
@@ -45,4 +45,6 @@ print(True or False)
 print(True or False or False)
 print(True and True and False)
 print(False and True)
-print(False and False)
+print(False and False)"""
+print((not True) or (True and True))
+print(False and(not True) or (True and True))
