@@ -1,0 +1,15 @@
+True
+False
+k=input()
+k2=int(k)
+(k2>=90)
+e=input()
+e2=int(e)
+(e2>80)
+m=input()
+m2=int(m)
+(m2>85)
+s=input()
+s2=int(s)
+(s2>=80)
+print(k2>=90 and e2>80 and m2>85 and s2>=80)

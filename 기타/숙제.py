@@ -47,9 +47,9 @@ print(True and True and False)
 print(False and True)
 print(False and False)
 print((not True) or (True and True))
-print(False and(not True) or (True and True))"""
+print(False and(not True) or (True and True))
 k=92
 e=47
 m=86
 s=81
-print(k>=50 and e>=50 and m>=50 and s>=50)
+print(k>=50 and e>=50 and m>=50 and s>=50)"""
