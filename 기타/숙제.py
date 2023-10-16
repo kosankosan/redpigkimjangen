@@ -56,7 +56,11 @@ print(k>=50 and e>=50 and m>=50 and s>=50)
 print("okay","okay","okay",sep="!!!")
 print(len("sdfghjk,mnbvcxdsdertyhbvcxdsertgfdew23456789"))
 a="20190505chicken19000"
-print(a[8:14])"""
+print(a[8:14])
 a="yako"
 print(a[3]+a[2]+a[1]+a[0])
-print(a[3:0])
+print(a[3:0])"""
+a="마마인인크크래래프프트트복싱"
+#print(a[12:14])
+#print(a[0:11:2])
+print(a[11::-2])
