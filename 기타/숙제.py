@@ -68,8 +68,13 @@ print(tuple("kosan"))
 print(tuple("12"))
 a=(1234,"kosankosankosankosan")
 print(tuple(a))
-a="2012,10,06"""
+a="2012,10,06
 a=2012
 s=10
 d=06
-print(tuple(20121006))
+print(tuple(a,s,d))
+a=1976,10,19
+print(a)"""
+a=[10,8,1,2,3]
+print(a[2:])
+print(a[2:5])
