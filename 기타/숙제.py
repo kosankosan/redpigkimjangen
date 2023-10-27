@@ -87,7 +87,11 @@ a.extend(b)
 print(a)
 c=list(range(-100,1))
 d=list(range(1,101))
-print(c+d)"""
+print(c+d)
 a=["myrobloxandminecraeftnameiskosankosan12121"]
 a.append(2)
+print(a)"""
+a=[1,2,3]
+s=[30,20,10]
+a.append(s)
 print(a)
