@@ -3,8 +3,8 @@ print(len(a))
 b=a*3
 d=b*2
 print(len(b))
-print(d)"""
-"""s="k1o2o3n4e5"
+print(d)
+s="k1o2o3n4e5"
 print(s[0]+s[2]+s[4]+s[6]+s[8])
 a="고원"
 s="은 "
@@ -18,10 +18,10 @@ o="<="
 s=">"
 a="<"
 print(f"{k},{o},{s},{a}는 수학기호")
-#print(1>2)
-#print(1<2)
-#print(1>=2)
-#print(1<=2)
+print(1>2)
+print(1<2)
+print(1>=2)
+print(1<=2)
 print(9>2)
 print(11<12)
 print(112>=268)
@@ -158,9 +158,17 @@ a=[1,2,[4,2,3],3,[1,2,3]]
 a[2].pop(2)
 a[4].pop(2)
 a[4].pop(1)
-print(a)"""
-a=[10,[1,2],[11]]
-a[0].append(1)
-#a[0].append(2)
-#a[1].append(3)
+print(a)
+insert
+a=[10,[1,2,[11]]]
+a.insert(1,1)
+a.insert(2,2)
+a[3].insert(2,3)
+a.insert(4,11)
+print(a)
+[10, 1, 2, [1, 2, [11], 3], 3]"""
+#sorted(a[5],reverse=True)
+a=[2,3,5,10,1,[1,2,3,4,5]]
+s=sorted(a[5],reverse=True)
+a[5]=s
 print(a)
